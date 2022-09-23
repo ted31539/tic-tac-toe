@@ -1,6 +1,6 @@
 # tic-tac-toe
 
-[GitHub Pages](https://ted31539.github.io/tenzies/)
+[GitHub Pages](https://ted31539.github.io/tic-tac-toe/)
 
 ## 遊戲規則
 - OOXX 遊戲規則
